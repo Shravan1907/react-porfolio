@@ -71,10 +71,7 @@ export const skillsSection: SkillsSectionType = {
           skillName: "AWS",
           iconifyTag: "logos:aws",
         },
-        {
-          skillName: "Heroku",
-          iconifyTag: "logos:heroku-icon",
-        },
+        
         {
           skillName: "Github",
           iconifyTag: "akar-icons:github-fill",
@@ -179,8 +176,8 @@ export const projects: ProjectType[] = [
     link: "https://reactporfolio-shravan.netlify.app/",
   },
   {
-    name: "Fake Product Identification using Blockchain",
-    desc: "The proliferation of counterfeit products in the market poses significant challenges for consumers, manufacturers, and regulators alike. To combat this issue, a blockchain-based system can be developed to authenticate products and ensure their legitimacy. This project aims to create a robust solution for identifying fake products using blockchain technology.",
+    name: "Fake Product Identification ",
+    desc: "Enable retailers and consumers to verify product authenticity in real-time by scanning a QR code or using a mobile app integrated with the blockchain platform.",
     link: "https://github.com/Shravan1907/blockchain",
   },
   {
