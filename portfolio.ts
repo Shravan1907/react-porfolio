@@ -173,15 +173,15 @@ export const certification: CertificationType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: "developer-portfolio",
+    name: "React-Portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-    github: "https://github.com/1hanzla100/developer-portfolio",
-    link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    github: "https://github.com/Shravan1907/react-porfolio",
+    link: "https://reactporfolio-shravan.netlify.app/",
   },
   {
-    name: "Giebo",
-    desc: "A Podcast Platform where creators can easily publish and sell their podcasts, and users can purchase with Handcash BitcoinSV, the future of fast and secure transactions.",
-    link: "https://gibeo.io/",
+    name: "Fake Product Identification using Blockchain",
+    desc: "The proliferation of counterfeit products in the market poses significant challenges for consumers, manufacturers, and regulators alike. To combat this issue, a blockchain-based system can be developed to authenticate products and ensure their legitimacy. This project aims to create a robust solution for identifying fake products using blockchain technology.",
+    link: "https://github.com/Shravan1907/blockchain",
   },
   {
     name: "O Mejor Oferta",
