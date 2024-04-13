@@ -196,7 +196,7 @@ export const seoData: SEODataType = {
   description: greetings.description,
   author: "Shravan kumar",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "https://reactporfolio-shravan.netlify.app/",
   keywords: [
     "Shravan",
     "Shravan kumar",
