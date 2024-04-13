@@ -26,7 +26,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "skshravan1907@gmail.com",
+  email: "mailto:skshravan1907@gmail.com",
   linkedin: "https://www.linkedin.com/in/shravan-kumar-582485299/",
   github: "https://github.com/Shravan1907",
   instagram: "https://www.instagram.com/i_shravan_kr/",
@@ -181,15 +181,12 @@ export const projects: ProjectType[] = [
     link: "https://github.com/Shravan1907/blockchain",
   },
   {
-    name: "O Mejor Oferta",
-    desc: "O Mejor Oferta is a mobile marketplace for buying and selling items nearby, helping users find deals on things they want and make money from items they no longer need.",
-    link: "https://play.google.com/store/apps/details?id=com.duseca.mejor_oferta",
+    name: "React-Chat-App",
+    desc: "The frontend of the chat app is developed using React.js, a popular JavaScript library for building user interfaces.Firebase is used as the backend service for the chat app. Firebase provides several services that are crucial for a real-time chat application",
+    github: "https://github.com/Shravan1907/react-chat-App",
+    link: "https://shravan-chat-app.netlify.app/",
   },
-  {
-    name: "Hooligan Culture",
-    desc: "A Ecommerce Platform, where shopping meets the future! With HandCash BitcoinSV integration, you can authenticate and purchase products with ease and confidence.",
-    link: "https://hooliganculture.com/",
-  },
+ 
 ];
 
 
