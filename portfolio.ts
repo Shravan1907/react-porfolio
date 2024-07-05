@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Shravan",
   description:
     "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Java, MongoDB, React.js, CSS, Nodejs, and mySQl. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
-  resumeLink: "https://drive.google.com/file/d/1-kWGMbSCmtZBUYCB22VtBbF27ikmogln/view",
+  resumeLink: "https://drive.google.com/file/d/1-kWGMbSCmtZBUYCB22VtBbF27ikmogln/view?usp=drive_link",
 };
 
 export const openSource = {
@@ -71,7 +71,7 @@ export const skillsSection: SkillsSectionType = {
           skillName: "AWS",
           iconifyTag: "logos:aws",
         },
-        
+
         {
           skillName: "Github",
           iconifyTag: "akar-icons:github-fill",
@@ -132,7 +132,7 @@ export const certification: CertificationType[] = [
     sourceLogo: "/img/icons/common/meganos.png",
     date: "20 jan 2023-20 feb 2023 ",
     desc: "Define the Fundamental concepts of Android app development, Set up and explore the Android Studio interface, configurations and built-in tools, Use Kotlin Playground,Create a simple Android app",
-    link:"https://coursera.org/verify/SFUSZ4G4XTYP",
+    link: "https://coursera.org/verify/SFUSZ4G4XTYP",
   },
   {
     certificationName: "Developing Sites for the Web",
@@ -140,7 +140,7 @@ export const certification: CertificationType[] = [
     sourceLogo: "/img/icons/common/ibm.png",
     date: "20 feb 2024-20 Mar 2024",
     desc: "Explain the structure, functions, and evolution of HTML,  the features and functions of CSS,  the features and functions of JavaScript, JavaScript interacts with CSS and HTML, phases in the software development lifecycle (SDLC), the scrum framework",
-    link:"https://skills.yourlearning.ibm.com/certificate/share/bca1cee8e0ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIyNTM2MDY0UkVHIiwKICAib2JqZWN0SWQiIDogIk1ETC0yNjIiCn057664f447d-10",
+    link: "https://skills.yourlearning.ibm.com/certificate/share/bca1cee8e0ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIyNTM2MDY0UkVHIiwKICAib2JqZWN0SWQiIDogIk1ETC0yNjIiCn057664f447d-10",
   },
   {
     certificationName: "Web Development Basics",
@@ -148,7 +148,7 @@ export const certification: CertificationType[] = [
     sourceLogo: "/img/icons/common/ibm.png",
     date: "12 feb 2024-12 Mar 2024",
     desc: "",
-    link:"https://skills.yourlearning.ibm.com/certificate/MDL-261",
+    link: "https://skills.yourlearning.ibm.com/certificate/MDL-261",
   },
   {
     certificationName: "The Joy of Computing using Python",
@@ -156,7 +156,7 @@ export const certification: CertificationType[] = [
     sourceLogo: "/img/icons/common/nptel.jpeg",
     date: " july 2022-oct 2022",
     desc: "",
-    link:"https://drive.google.com/file/d/1Scb-TLCdz4Q2LbeV6P4sFMY9CJLPBzbd/view?usp=drive_link",
+    link: "https://drive.google.com/file/d/1Scb-TLCdz4Q2LbeV6P4sFMY9CJLPBzbd/view?usp=drive_link",
   },
   {
     certificationName: "Programming In Java",
@@ -164,7 +164,7 @@ export const certification: CertificationType[] = [
     sourceLogo: "/img/icons/common/nptel.jpeg",
     date: " july 2023-oct 2023",
     desc: "",
-    link:"https://drive.google.com/file/d/1PLMXWNH6_AMiTv72OZVrofe50wKvGFia/view?usp=drive_link",
+    link: "https://drive.google.com/file/d/1PLMXWNH6_AMiTv72OZVrofe50wKvGFia/view?usp=drive_link",
   },
 ];
 
@@ -186,7 +186,7 @@ export const projects: ProjectType[] = [
     github: "https://github.com/Shravan1907/react-chat-App",
     link: "https://shravan-chat-app.netlify.app/",
   },
- 
+
 ];
 
 
